@@ -3,7 +3,7 @@
 
 - 🎓 Actualmente estoy estudiando lo siguiente: **.Net, Java Spring Boot**
 
-- 💻 Puedes ver mis proyectos aquí: "link de mi futuro Portafolio"
+<!--- 💻 Puedes ver mis proyectos aquí: "link de mi futuro Portafolio" -->
 
 - 📫 Dónde encontrarme: **attercoppe@protonmail.com**
 
