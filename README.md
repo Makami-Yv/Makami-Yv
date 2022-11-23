@@ -1,4 +1,4 @@
-<img align="center" alt="banner" src="https://media.giphy.com/media/o7k1EdbCiS52rwJzCW/giphy.gif">
+<img align="center" alt="banner" width="750" src="https://media.giphy.com/media/o7k1EdbCiS52rwJzCW/giphy.gif">
 <h1 align="center">Hola! Yo soy Erick Ramírez Rodas</h1>
 
 - 🎓 Actualmente estoy estudiando lo siguiente: **.Net, Java Spring Boot**
