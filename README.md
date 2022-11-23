@@ -1,4 +1,4 @@
-<h1 align="center">Hola yo soy Erick Ramírez Rodas</h1>
+<h1 align="center">Hola! Yo soy Erick Ramírez Rodas</h1>
 <h3 align="center">Full Stack Developer de México</h3>
 
 - Actualmente estoy estudiando lo siguiente: **.Net, Java Spring Boot**
@@ -12,6 +12,7 @@
 <h3 align="left">Redes Sociales:</h3>
 <p align="left">
 <a href="https://twitter.com/musohka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="musohka" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/yvmusohka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yvmusohka/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
@@ -66,3 +67,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   </a> 
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=makami-yv&show_icons=true&locale=en&layout=compact" alt="makami-yv" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=makami-yv&show_icons=true&locale=en" alt="makami-yv" /></p>
