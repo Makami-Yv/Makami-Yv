@@ -3,18 +3,18 @@
 
 - Actualmente estoy estudiando lo siguiente: **.Net, Java Spring Boot**
 
-- Puedes ver mis proyectos aquí: ["link de mi futuro Portafolio"]("link de mi futuro Portafolio")
+- Puedes ver mis proyectos aquí: ("link de mi futuro Portafolio")
 
 - 📫 Dónde encontrarme: **attercoppe@protonmail.com**
 
 - 📄 Conoce más a cerca de mis experiencias: [https://www.linkedin.com/in/erick-ramirez-rodas/](https://www.linkedin.com/in/erick-ramirez-rodas/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Redes Sociales:</h3>
 <p align="left">
 <a href="https://twitter.com/musohka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="musohka" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
