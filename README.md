@@ -1,32 +1,27 @@
+<img align="right" alt="gif" width="400" src="https://gifyu.com/image/ShhTm.gif">
 <h1 align="center">Hola! Yo soy Erick Ramírez Rodas</h1>
-<h3 align="center">Full Stack Developer de México</h3>
 
-- Actualmente estoy estudiando lo siguiente: **.Net, Java Spring Boot**
+- 🎓 Actualmente estoy estudiando lo siguiente: **.Net, Java Spring Boot**
 
-- Puedes ver mis proyectos aquí: ("link de mi futuro Portafolio")
+- 💻 Puedes ver mis proyectos aquí: "link de mi futuro Portafolio"
 
 - 📫 Dónde encontrarme: **attercoppe@protonmail.com**
 
-- 📄 Conoce más a cerca de mis experiencias: [https://www.linkedin.com/in/erick-ramirez-rodas/](https://www.linkedin.com/in/erick-ramirez-rodas/)
+- 📂 Conoce más a cerca de mis experiencias: [https://www.linkedin.com/in/erick-ramirez-rodas/](https://www.linkedin.com/in/erick-ramirez-rodas/)
 
 <h3 align="left">Redes Sociales:</h3>
 <p align="left">
 <a href="https://twitter.com/musohka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="musohka" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/yvmusohka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yvmusohka/" height="30" width="40" /></a>
+<img align="right" alt="gif" width="400" src="https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/coding.gif">
 </p>
-
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>     </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>   </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-  </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   </a> 
