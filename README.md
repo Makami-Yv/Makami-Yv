@@ -1,21 +1,21 @@
 <img align="center" alt="banner" width="750" src="https://media.giphy.com/media/o7k1EdbCiS52rwJzCW/giphy.gif">
-<h1 align="center">Hola! Yo soy Erick Ramírez Rodas</h1>
+<h1 align="center">Hi! I'm Erick Ramírez Rodas</h1>
 
-- 🎓 Actualmente estoy estudiando lo siguiente: **.Net, Java Spring Boot**
+- 🎓 Currently I'm learning now: **.Net, Java Spring Boot**
 
 <!--- 💻 Puedes ver mis proyectos aquí: "link de mi futuro Portafolio" -->
 
-- 📫 Dónde encontrarme: **attercoppe@protonmail.com**
+- 📫 Get in touch: **attercoppe@protonmail.com**
 
-- 📂 Conoce más a cerca de mis experiencias: [https://www.linkedin.com/in/erick-ramirez-rodas/](https://www.linkedin.com/in/erick-ramirez-rodas/)
+- 📂 More about my experience: [https://www.linkedin.com/in/erick-ramirez-rodas/](https://www.linkedin.com/in/erick-ramirez-rodas/)
 
-<h3 align="left">Redes Sociales:</h3>
+<h3 align="left">Social networks:</h3>
 <p align="left">
 <a href="https://twitter.com/musohka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="musohka" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/yvmusohka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yvmusohka/" height="30" width="40" /></a>
 <img align="right" alt="gif" width="400" src="https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/coding.gif">
 </p>
-<h3 align="left">Lenguajes y Herramientas:</h3>
+<h3 align="left">Languajes and Tools:</h3>
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
