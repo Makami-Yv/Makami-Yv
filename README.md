@@ -1,7 +1,7 @@
 <img align="center" alt="banner" width="750" src="https://media.giphy.com/media/o7k1EdbCiS52rwJzCW/giphy.gif">
 <h1 align="center">Hi! I'm Erick Ramírez Rodas</h1>
 
-- 🎓 Currently I'm learning now: **.Net, Java Spring Boot**
+- 🎓 Currently learning: **.Net, Java Spring Boot, Docker**
 
 <!--- 💻 Puedes ver mis proyectos aquí: "link de mi futuro Portafolio" -->
 
